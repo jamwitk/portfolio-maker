@@ -92,7 +92,6 @@ namespace Notion
                        @"	]" + "\n" +
                        @"}";
             request.AddParameter("application/json", body,  ParameterType.RequestBody);
-            Console.WriteLine(body);
             IRestResponse response = client.Execute(request);
             Console.WriteLine(response.Content);
             
