@@ -1,0 +1,12 @@
+C:\Users\hushd\Github\Notion\Notion\bin\Debug\Notion.exe
+C:\Users\hushd\Github\Notion\Notion\bin\Debug\Notion.pdb
+C:\Users\hushd\Github\Notion\Notion\obj\Debug\Notion.csprojAssemblyReference.cache
+C:\Users\hushd\Github\Notion\Notion\obj\Debug\Notion.csproj.CoreCompileInputs.cache
+C:\Users\hushd\Github\Notion\Notion\obj\Debug\Notion.exe
+C:\Users\hushd\Github\Notion\Notion\obj\Debug\Notion.pdb
+C:\Users\hushd\Github\Notion\Notion\bin\Debug\HtmlAgilityPack.dll
+C:\Users\hushd\Github\Notion\Notion\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\hushd\Github\Notion\Notion\bin\Debug\HtmlAgilityPack.xml
+C:\Users\hushd\Github\Notion\Notion\obj\Debug\Notion.csproj.CopyComplete
+C:\Users\hushd\Github\Notion\Notion\bin\Debug\RestSharp.dll
+C:\Users\hushd\Github\Notion\Notion\bin\Debug\RestSharp.xml
